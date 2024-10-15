@@ -25,5 +25,9 @@
     "eslint-plugin-import": "2.29.1",
     "stylelint": "16.8.2",
     "stylelint-config-standard": "36.0.1"
+  },
+  "dependencies": {
+    "@dropins/storefront-pdp": "^0.4.0",
+    "@dropins/tools": "^0.34.0"
   }
 }
